@@ -1,0 +1,5 @@
+config FASTPOWER
+	tristate "fastpower dev android driver"
+	default n
+	help
+	  The fastpower dev and sys android driver
